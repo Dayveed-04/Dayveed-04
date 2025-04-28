@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dayveed-04
-- 👀 I’m interested in Backend developement 
-- 🌱 I’m currently learning Python and javascript(node.js)
+- 👀 I’m interested in full stack and mobile development (flutter)
 - 💞️ I’m looking to collaborate on learning 
 - 📫 How to reach me : uwajedavid04@gmail.com
 - 😄 Pronouns: He
