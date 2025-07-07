@@ -5,6 +5,27 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact:  I love games and anime
 
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dayveed-04&theme=onestar&no-frame=false&no-bg=false&margin-w=4&exclude=Star,Review,Issue,Stars,Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![codedbyfemi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dayveed-04&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dayveed04&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dayveed04&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
 <!---
 Dayveed-04/Dayveed-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
